@@ -3,7 +3,7 @@
 
 title: Python for Data Science Handbook
 author: Tuyen Kieu
-logo: 
+logo: logo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -43,7 +43,7 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  favicon:  # A path to a favicon image
+  favicon: ./figures/favicon.png # A path to a favicon image
   home_page_in_navbar: false
   use_issues_button: true
   use_repository_button: true

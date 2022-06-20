@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Getting Data
+    numbered: True
+    maxdepth: 2
+    chapters:
+    - file: 01-getting-data/01-tabular-data/index

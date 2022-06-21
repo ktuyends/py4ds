@@ -8,4 +8,62 @@ parts:
     numbered: True
     maxdepth: 2
     chapters:
-    - file: 01-getting-data/01-tabular-data/index
+    - file: 01-getting-data/01-data-and-databases/index    
+    - file: 01-getting-data/02-tabular-data/index
+    - file: 01-getting-data/03-web-scraping/index    
+
+# parts:
+#   - caption: Data Wrangling
+#     numbered: True
+#     maxdepth: 2
+#     chapters:
+#     - file: 
+
+# parts:
+#   - caption: EDA and Data Visualization
+#     numbered: True
+#     maxdepth: 2
+#     chapters:
+#     - file: 
+
+# parts:
+#   - caption: Data Preparation
+#     numbered: True
+#     maxdepth: 2
+#     chapters:
+#     - file: 
+
+# parts:
+#   - caption: Feature Engineering
+#     numbered: True
+#     maxdepth: 2
+#     chapters:
+#     - file: 
+
+# parts:
+#   - caption: Feature Engineering
+#     numbered: True
+#     maxdepth: 2
+#     chapters:
+#     - file: 
+
+# parts:
+#   - caption: Machine Learning
+#     numbered: True
+#     maxdepth: 2
+#     chapters:
+#     - file: 
+
+# parts:
+#   - caption: Interpretable Machine Learning
+#     numbered: True
+#     maxdepth: 2
+#     chapters:
+#     - file: 
+
+# parts:
+#   - caption: Dashboards and Data Apps
+#     numbered: True
+#     maxdepth: 2
+#     chapters:
+#     - file: 
